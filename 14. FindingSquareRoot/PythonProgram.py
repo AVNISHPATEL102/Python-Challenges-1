@@ -1,4 +1,4 @@
-def ReverseNumber():
+def SquareRoot():
     i = int(input("Please enter the number if input you want to calculate"))
     for x in range(1, i + 1):
         print("Please enter the {} number:- ".format(x))
@@ -7,4 +7,4 @@ def ReverseNumber():
         print("Your answer is {} ".format(o))
 
 
-ReverseNumber()
+SquareRoot()
